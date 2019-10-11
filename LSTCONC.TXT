@@ -1,0 +1,7 @@
+id;bib;lastname;firstname;birthyear;abNat;abCat
+1 ;"" ;"Alton" ;"" ;"" ;"ALTS" ;"" ;
+2 ;"" ;"Farnham" ;"" ;"" ;"FARS" ;"" ;
+3 ;"" ;"Staines" ;"" ;"" ;"STAS" ;"" ;
+4 ;"" ;"Rushmoor" ;"" ;"" ;"RURS" ;"" ;
+5 ;"" ;"Godalming" ;"" ;"" ;"GODS" ;"" ;
+6 ;"" ;"Wantage" ;"" ;"" ;"WWWS" ;"" ;
